@@ -61,7 +61,7 @@ Other Random Distributions
 np.random.uniform() → Random numbers from a uniform distribution
 Generates random numbers between low and high, where each number is equally likely
 '''
-arr = np.random.uniform(5, 10, size=(2, 3))  # Between 5 and 10
+arr = np.random.uniform(5, 10, size=(2, 3) )  # Between 5 and 10
 print(arr)
 
 '''
